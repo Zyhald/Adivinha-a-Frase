@@ -6,7 +6,7 @@ Membros do grupo:
 
 
 #include <iostream>
-#include <string>
+
 
 using namespace std;
 
